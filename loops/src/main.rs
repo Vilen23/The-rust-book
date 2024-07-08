@@ -18,7 +18,7 @@ fn main() {
         }
         counter += 1;
     }
-    println!("End count = {counter}")
+    println!("End count = {counter}");
 
     reverse();
 }
